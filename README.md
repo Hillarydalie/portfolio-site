@@ -17,7 +17,7 @@ This is a sample of some work i've done. More work will be updated as soon as it
 
 ## Setup/Installation Requirements
 * You don't need a server to view or use it, a web Browser would do. Prefarably Google Chrome. 
-* Fork the code from my Githup Repository; In the case of link not working, https://github.com/Hillarydalie/pet_repo.git 
+* Fork the code from my Githup Repository; In the case of link not working, https://github.com/Hillarydalie/portfolio-site.git 
 * Clone the code and download as a zip file.
 * Unzip the file and you'll see the folder "portfolio".
 * In the folder open index.html 
