@@ -3,7 +3,7 @@
 #### This is my portfolio, 5 July 2019
 
 #### Link
-* https://hillarydalie.github.io/portfolio-site
+https://hillarydalie.github.io/portfolio-site/
 
 ## Description
 This is a sample of some work i've done. More work will be updated as soon as it's completed.
